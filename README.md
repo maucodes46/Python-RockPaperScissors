@@ -27,5 +27,5 @@ python rock_paper_scissors.py
 * `random.choice()`
 * User input validation
 
-##Screenshots
+## Screenshots
 <img width="1920" height="1046" alt="image" src="https://github.com/user-attachments/assets/c685a695-d545-4fa3-8120-5bfb94478bda" />
