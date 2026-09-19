@@ -24,7 +24,7 @@ python rock_paper_scissors.py
 * `if / elif / else`
 * `while` loop
 * Lists
-* `random.choice()`
+* `random.choice()`  
 * User input validation
 
 ## Screenshots
