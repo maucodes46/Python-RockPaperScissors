@@ -1,6 +1,6 @@
 # Rock Paper Scissors 
 
-A simple Rock Paper Scissors game built with Python.
+A simple Rock Paper Scissors game built with Python. 
 
 ## Features
 
